@@ -1,7 +1,7 @@
 
 ![Stargazers](https://img.shields.io/github/stars/miami78/nextjs-mui-boilerplate?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/miami78/nextjs-mui-boilerplate?label=FORKS&style=for-the-badge)
-![License](https://img.shields.io/github/license/miami78/nextjs-mui-boilerplate?color=green&label=LICENSE&style=for-the-badge)
+![License](https://img.shields.io/github/license/miami78/nextjs-mui-boilerplate?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/miami78/nextjs-mui-boilerplate?color=yellow&label=ISSUES&style=for-the-badge)
 
 
